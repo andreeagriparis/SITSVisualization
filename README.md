@@ -14,7 +14,7 @@ In the data loading area, the user can load three grey level SITS with dimension
 
 Displaying the images requires loading the series related to each band.
 
-The _.mat_ file must have version v4 and contain only one variable of the array type.
+The _.mat_ file must have version v4 and contain only one array variable.
 
 The header for the _.csv_ and _.pkl_ files must be: name, day, month, year. 
 
