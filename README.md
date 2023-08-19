@@ -18,5 +18,7 @@ The _.mat_ file must have version v4 and contain only one array variable.
 
 The header for the _.csv_ and _.pkl_ files must be: name, day, month, year. 
 
+__Dataset__ is available at: http://ieee-dataport.org/11504
+
 __If you use this code, please cite our paper:__
 -  _A. Griparis, A. Radoi, D. Faur, M. Datcu., "Visual exploration of satellite image time series," IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, USA, 2023_
